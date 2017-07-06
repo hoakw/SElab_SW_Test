@@ -1,0 +1,6 @@
+keyword,	"lambda".
+identifier,	"k".
+quote.
+rparen.
+keyword,	"=>".
+eof.

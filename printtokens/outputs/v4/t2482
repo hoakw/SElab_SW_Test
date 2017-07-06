@@ -1,0 +1,7 @@
+character,	"O".
+character,	"J".
+error,	"#".
+error,	"~".
+identifier,	"XV".
+error,	"{".
+eof.

@@ -1,0 +1,12 @@
+error,	"}".
+lsquare.
+identifier,	"H".
+error,	"-".
+error,	"+".
+identifier,	"V".
+error,	"-".
+error,	"~".
+error,	"{".
+error,	".".
+numeric,	1.
+eof.

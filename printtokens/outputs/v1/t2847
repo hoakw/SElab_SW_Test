@@ -1,0 +1,24 @@
+keyword,	"=>".
+bquote.
+comma.
+identifier,	"Ok".
+bquote.
+keyword,	"xor".
+identifier,	"Qa6".
+quote.
+identifier,	"Mi".
+comma.
+identifier,	"Uv".
+lparen.
+error,	"\".
+error,	"?".
+quote.
+error,	"4E".
+error,	"}".
+identifier,	"O".
+error,	"~".
+identifier,	"G".
+error,	"}".
+error,	"1DZ".
+bquote.
+eof.

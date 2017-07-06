@@ -1,0 +1,10 @@
+identifier,	"Mm".
+quote.
+numeric,	4.
+error,	"&".
+identifier,	"sf".
+rparen.
+identifier,	"pB".
+error,	"=".
+identifier,	"pM".
+eof.

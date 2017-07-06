@@ -1,0 +1,16 @@
+identifier,	"LVP2".
+error,	"_".
+error,	"{".
+identifier,	"N".
+error,	"{".
+error,	"/".
+identifier,	"P6".
+character,	"\".
+error,	"1uaS6".
+error,	"@".
+rsquare.
+identifier,	"C".
+error,	"|".
+identifier,	"R".
+error,	"<".
+eof.

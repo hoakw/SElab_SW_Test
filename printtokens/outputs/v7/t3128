@@ -1,0 +1,11 @@
+error,	""WJ".
+error,	"+".
+numeric,	9.
+error,	"!".
+identifier,	"ApjK".
+error,	"<".
+identifier,	"f".
+string,	"?".
+numeric,	39.
+character,	"#".
+eof.

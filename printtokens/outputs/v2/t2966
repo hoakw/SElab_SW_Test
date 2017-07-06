@@ -1,0 +1,25 @@
+keyword,	"=>".
+numeric,	8.
+keyword,	"or".
+keyword,	"and".
+rparen.
+numeric,	1.
+keyword,	"and".
+keyword,	"or".
+string,	"#A#j".
+error,	"$".
+character,	"c".
+identifier,	"harv".
+identifier,	"o".
+error,	"$".
+character,	"c".
+identifier,	"harCL5".
+rparen.
+rparen.
+keyword,	"and".
+bquote.
+keyword,	"if".
+keyword,	"=>".
+lsquare.
+numeric,	7.
+eof.

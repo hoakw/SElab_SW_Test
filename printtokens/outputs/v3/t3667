@@ -1,0 +1,10 @@
+numeric,	79.
+identifier,	"DBW".
+error,	"^".
+lsquare.
+lsquare.
+identifier,	"bVr".
+error,	"+".
+error,	"@".
+identifier,	"ZMK".
+eof.

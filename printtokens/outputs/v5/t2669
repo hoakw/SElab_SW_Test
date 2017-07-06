@@ -1,0 +1,24 @@
+identifier,	"vKGr".
+error,	"@".
+identifier,	"SGDHB".
+error,	"\".
+identifier,	"j".
+rparen.
+quote.
+identifier,	"Zt".
+rsquare.
+identifier,	"nI".
+error,	":".
+identifier,	"B".
+lsquare.
+numeric,	7.
+error,	"}".
+error,	"*".
+identifier,	"B".
+error,	"=".
+identifier,	"jM".
+error,	"<".
+error,	"&".
+error,	"$".
+string,	"p".
+eof.

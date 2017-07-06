@@ -1,0 +1,17 @@
+keyword,	"and".
+rsquare.
+error,	"@".
+identifier,	"y6".
+error,	":".
+identifier,	"j".
+error,	"{".
+identifier,	"YS".
+bquote.
+identifier,	"G".
+error,	"/".
+rparen.
+lsquare.
+error,	"^".
+identifier,	"UI".
+error,	"{".
+eof.

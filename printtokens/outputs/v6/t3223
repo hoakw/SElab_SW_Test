@@ -1,0 +1,30 @@
+character,	"9".
+identifier,	"mu".
+error,	""L1 V".
+error,	"?".
+identifier,	"i".
+rparen.
+error,	"{".
+error,	""U'-1CvMb.+1Y^s'pVw&'{H. P7!C-gYqLO".
+error,	"5v".
+error,	"|".
+error,	"1Y9v5s".
+rsquare.
+numeric,	8.
+error,	"&".
+identifier,	"m".
+lsquare.
+error,	"{".
+identifier,	"g".
+character,	"H".
+identifier,	"u".
+error,	"|".
+error,	""".
+string,	"Op%'WY*hZ*y0Ce1s%q2:0sRe~".
+numeric,	44.
+character,	"d".
+keyword,	"or".
+lsquare.
+numeric,	45.
+numeric,	64.
+eof.

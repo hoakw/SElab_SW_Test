@@ -1,0 +1,20 @@
+identifier,	"h3".
+string,	"Q".
+identifier,	"AN".
+rparen.
+bquote.
+error,	"&".
+identifier,	"GE".
+lparen.
+identifier,	"u".
+error,	"\".
+error,	"{".
+identifier,	"OT".
+error,	"/".
+identifier,	"W".
+quote.
+identifier,	"B".
+error,	"_".
+comma.
+error,	""Rf2D\ML7rM/#WYfkrF<c".
+eof.

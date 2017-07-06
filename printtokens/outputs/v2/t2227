@@ -1,0 +1,5 @@
+numeric,	10.
+error,	"/".
+error,	"_".
+error,	":".
+error

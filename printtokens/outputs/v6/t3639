@@ -1,0 +1,87 @@
+string,	"u".
+keyword,	"lambda".
+error,	"_".
+identifier,	"P".
+error,	"&".
+identifier,	"X".
+lparen.
+identifier,	"r42".
+error,	"*".
+error,	"50HRu8".
+lparen.
+identifier,	"r0A".
+error,	"^".
+identifier,	"o".
+bquote.
+error,	"+".
+error,	"&".
+identifier,	"uc".
+identifier,	"LMCz8k".
+error,	"_".
+identifier,	"gn".
+rparen.
+error,	":".
+identifier,	"P".
+error,	"-".
+identifier,	"Mk".
+identifier,	"QEqf".
+error,	"<".
+identifier,	"ek4".
+identifier,	"w8".
+bquote.
+identifier,	"sDox".
+error,	"^".
+identifier,	"U2".
+error,	"\".
+identifier,	"Rvo34A".
+error,	"/".
+identifier,	"AtAbYJj2".
+numeric,	53.
+identifier,	"UiRc".
+error,	"/".
+numeric,	4.
+error,	"$".
+identifier,	"MeR6".
+error,	"|".
+error,	".".
+quote.
+bquote.
+identifier,	"S".
+error,	"+".
+identifier,	"S5".
+identifier,	"Svq".
+error,	"*".
+error,	"-".
+error,	":".
+error,	"$".
+error,	"3a".
+error,	"%".
+identifier,	"be".
+error,	"-".
+identifier,	"Mfw".
+error,	":".
+identifier,	"wUM".
+error,	"~".
+numeric,	0.
+comma.
+identifier,	"dqx".
+error,	"_".
+error,	"$".
+identifier,	"evznLfuB".
+error,	"|".
+identifier,	"c".
+identifier,	"fKwY".
+character,	"<".
+error,	"7H".
+error,	"+".
+identifier,	"LxhA".
+identifier,	"uVHuu".
+error,	"<".
+identifier,	"S".
+error,	"_".
+error,	"9YFkNp".
+error,	"*".
+identifier,	"k".
+identifier,	"h".
+numeric,	17.
+eof.

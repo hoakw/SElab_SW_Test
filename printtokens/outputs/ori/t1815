@@ -1,0 +1,15 @@
+keyword,	"and".
+bquote.
+rparen.
+keyword,	"=>".
+rparen.
+rparen.
+rparen.
+keyword,	"xor".
+quote.
+numeric,	9.
+identifier,	"P".
+identifier,	"On".
+string,	"rX".
+keyword,	"=>".
+eof.

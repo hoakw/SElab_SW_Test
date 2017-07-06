@@ -1,0 +1,39 @@
+error,	"!".
+error,	"}".
+error,	"&".
+error,	"}".
+error,	"/".
+lsquare.
+error,	"!".
+numeric,	1.
+error,	".".
+error,	"!".
+identifier,	"m".
+error,	"%".
+identifier,	"t".
+error,	"~".
+identifier,	"ag".
+error,	"^".
+error,	":".
+identifier,	"F".
+error,	":".
+error,	":".
+identifier,	"rD0j".
+string,	"DI}=[=EM*f: R]*].T(m|DjW& n7<_=4".
+numeric,	22.
+identifier,	"n9".
+error,	"!".
+identifier,	"VcA".
+error,	"~".
+error,	"!".
+numeric,	1.
+error,	"&".
+lparen.
+identifier,	"Sea".
+error,	"@".
+identifier,	"k2P2Orf83".
+character,	"6".
+character,	"[".
+character,	"c".
+keyword,	"xor".
+eof.

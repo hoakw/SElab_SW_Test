@@ -1,0 +1,21 @@
+rsquare.
+identifier,	"X2pY".
+string,	"Xh".
+comma.
+keyword,	"if".
+keyword,	"and".
+rsquare.
+keyword,	"=>".
+keyword,	"if".
+keyword,	"and".
+identifier,	"KLD7".
+keyword,	"=>".
+keyword,	"or".
+comma.
+comma.
+keyword,	"xor".
+string,	"nd".
+lparen.
+keyword,	"or".
+identifier,	"F".
+eof.

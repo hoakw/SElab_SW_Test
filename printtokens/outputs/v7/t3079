@@ -1,0 +1,15 @@
+error,	"}".
+identifier,	"g".
+error,	"/".
+identifier,	"m".
+error,	"\".
+error,	"?".
+numeric,	7.
+quote.
+error,	"+".
+identifier,	"ry8".
+error,	"@".
+identifier,	"s".
+error,	"%".
+identifier,	"pi".
+eof.

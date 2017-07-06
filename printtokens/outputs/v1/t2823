@@ -1,0 +1,16 @@
+identifier,	"N7".
+character,	"B".
+keyword,	"if".
+identifier,	"Q0".
+character,	"p".
+character,	";".
+identifier,	"RA".
+error,	".".
+error,	"}".
+numeric,	1.
+error,	"<".
+error,	"=".
+identifier,	"j".
+error,	"?".
+identifier,	"f".
+eof.

@@ -1,0 +1,11 @@
+error,	""".
+error,	"?".
+identifier,	"TM".
+error,	"|".
+bquote.
+error,	"3qB".
+comma.
+numeric,	0.
+error,	""`".
+identifier,	"S9".
+eof.

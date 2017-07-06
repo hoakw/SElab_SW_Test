@@ -1,0 +1,8 @@
+numeric,	27.
+bquote.
+character,	"I".
+identifier,	"aNAm".
+error,	"$".
+character,	"P".
+error,	"!".
+error

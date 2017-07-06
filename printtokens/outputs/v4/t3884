@@ -1,0 +1,12 @@
+identifier,	"eB".
+string,	"R".
+keyword,	"and".
+lsquare.
+keyword,	"lambda".
+keyword,	"=>".
+error,	"#".
+error,	"~".
+string,	"#".
+identifier,	"WY".
+keyword,	"or".
+eof.

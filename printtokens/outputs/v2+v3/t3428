@@ -1,0 +1,14 @@
+character,	"^".
+identifier,	"sTv".
+error,	"$".
+identifier,	"SPc".
+error,	"*".
+error,	"}".
+error,	"-".
+identifier,	"CV".
+keyword,	"xor".
+comma.
+character,	"!".
+bquote.
+keyword,	"=>".
+eof.

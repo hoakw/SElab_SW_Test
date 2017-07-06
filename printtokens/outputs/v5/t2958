@@ -1,0 +1,10 @@
+keyword,	"and".
+error,	"}".
+identifier,	"bc5".
+error,	"~".
+identifier,	"wCp".
+quote.
+identifier,	"Kc".
+numeric,	84.
+error,	"_".
+eof.

@@ -1,0 +1,20 @@
+string,	"*".
+identifier,	"y724uZZ338946Hf3rkNRS1hR71pW6".
+error,	"@".
+identifier,	"JKeWN".
+error,	"\".
+numeric,	2.
+error,	"|".
+identifier,	"P".
+error,	"}".
+comma.
+character,	"(".
+identifier,	"d".
+quote.
+error,	"{".
+error,	"0g".
+error,	"^".
+rparen.
+numeric,	23.
+keyword,	"and".
+eof.

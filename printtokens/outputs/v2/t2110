@@ -1,0 +1,20 @@
+identifier,	"M9".
+keyword,	"=>".
+rsquare.
+identifier,	"dT".
+numeric,	85.
+rparen.
+character,	"p".
+keyword,	"=>".
+identifier,	"yB".
+error,	"*".
+error,	"/".
+identifier,	"V".
+character,	"y".
+identifier,	"qq".
+bquote.
+rparen.
+keyword,	"and".
+character,	"^".
+lsquare.
+eof.

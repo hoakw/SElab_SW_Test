@@ -1,0 +1,20 @@
+numeric,	91.
+error,	""*%%,];z4d".
+error,	"?".
+numeric,	9.
+error,	":".
+error,	"$".
+identifier,	"Li".
+error,	"=".
+lsquare.
+identifier,	"V".
+error,	"&".
+identifier,	"zFa".
+lsquare.
+error,	"-".
+error,	"8G".
+error,	"\".
+numeric,	4.
+error,	"=".
+error,	""(".
+eof.

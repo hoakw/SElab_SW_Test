@@ -1,0 +1,34 @@
+keyword,	"xor".
+string,	"ob".
+comma.
+identifier,	"O7Ur".
+identifier,	"m5GX".
+keyword,	"xor".
+keyword,	"or".
+keyword,	"=>".
+quote.
+quote.
+rsquare.
+keyword,	"lambda".
+keyword,	"=>".
+keyword,	"if".
+identifier,	"Rpo2".
+keyword,	"and".
+string,	"SH".
+keyword,	"=>".
+keyword,	"lambda".
+rsquare.
+keyword,	"=>".
+keyword,	"if".
+identifier,	"y9".
+keyword,	"=>".
+rsquare.
+error,	"".
+comma.
+lsquare.
+numeric,	2.
+keyword,	"=>".
+lsquare.
+rparen.
+identifier,	"SR".
+eof.

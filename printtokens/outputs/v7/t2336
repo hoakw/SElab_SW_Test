@@ -1,0 +1,61 @@
+character,	"0".
+numeric,	26.
+identifier,	"AdN36".
+identifier,	"f".
+error,	"+".
+identifier,	"ru".
+comma.
+numeric,	6.
+error,	"*".
+error,	"9a".
+identifier,	"X".
+numeric,	5.
+character,	"9".
+character,	"Y".
+character,	"9".
+rparen.
+rparen.
+character,	""".
+numeric,	94.
+keyword,	"or".
+quote.
+numeric,	98.
+string,	"eqSmy)t?F&)tws".
+error,	""".
+keyword,	"if".
+rsquare.
+quote.
+numeric,	7.
+error,	"*".
+identifier,	"U".
+error,	"?".
+identifier,	"r".
+quote.
+identifier,	"Fe0iZ".
+error,	"-".
+error,	"0ll".
+error,	"_".
+error,	"{".
+error,	"_".
+identifier,	"sXe".
+lparen.
+identifier,	"d".
+error,	"~".
+character,	"(".
+identifier,	"dif4fL".
+error,	":".
+comma.
+identifier,	"hO".
+error,	"\".
+error,	"%".
+error,	"9RK5bQJml".
+identifier,	"ZQ".
+error,	"_".
+bquote.
+error,	""Ql#".
+error,	"|".
+identifier,	"bmU8F64yH".
+error,	"{".
+error,	"0QgM".
+error,	""52".
+eof.

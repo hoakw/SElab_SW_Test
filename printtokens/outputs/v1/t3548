@@ -1,0 +1,11 @@
+identifier,	"eKS".
+error,	"{".
+bquote.
+error,	"{".
+identifier,	"r".
+character,	""".
+error,	"@".
+error,	"$".
+error,	"@".
+error,	":".
+eof.

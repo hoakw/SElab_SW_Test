@@ -1,0 +1,11 @@
+bquote.
+identifier,	"t".
+error,	"~".
+error,	"0B".
+error,	"~".
+identifier,	"ey".
+bquote.
+error,	"<".
+error,	"<".
+identifier,	"p".
+eof.

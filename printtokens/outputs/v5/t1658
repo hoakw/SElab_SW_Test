@@ -1,0 +1,50 @@
+identifier,	"r7Ip".
+keyword,	"xor".
+keyword,	"xor".
+keyword,	"or".
+lsquare.
+identifier,	"m1Yj".
+keyword,	"xor".
+comma.
+identifier,	"MY".
+identifier,	";                       
+                       HS".
+bquote.
+keyword,	"or".
+lsquare.
+keyword,	"and".
+identifier,	";                                s8".
+error,	";".
+lparen.
+lsquare.
+keyword,	"lambda".
+error,	";".
+keyword,	"=>".
+keyword,	"if".
+keyword,	"if".
+lsquare.
+identifier,	"S6nR".
+error,	";".
+keyword,	"if".
+keyword,	"=>".
+identifier,	"Q9xK".
+error,	";".
+string,	"CK".
+comma.
+keyword,	"xor".
+error,	";".
+error,	";".
+identifier,	"DQ".
+lparen.
+error,	"".
+error,	";".
+rparen.
+comma.
+lsquare.
+keyword,	"lambda".
+error,	";                       ;".
+lsquare.
+identifier,	"Kf".
+identifier,	";                                 ;                                 v".
+rsquare.
+eof.

@@ -1,0 +1,14 @@
+string,	"{".
+string,	"!".
+character,	"-".
+identifier,	"yY2".
+string,	"U".
+error,	"^".
+numeric,	62.
+character,	"l".
+identifier,	"i".
+numeric,	82.
+numeric,	14.
+character,	"S".
+numeric,	100.
+eof.

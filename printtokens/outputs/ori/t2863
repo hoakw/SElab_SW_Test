@@ -1,0 +1,20 @@
+rsquare.
+string,	"A".
+numeric,	84.
+rparen.
+error,	".".
+identifier,	"VsD2".
+error,	"<".
+error,	"8cwQddu".
+error,	":".
+identifier,	"oK".
+error,	"=".
+identifier,	"Sl".
+error,	"\".
+lparen.
+identifier,	"w".
+lparen.
+error,	"%".
+error,	"@".
+identifier,	"o".
+eof.

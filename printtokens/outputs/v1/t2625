@@ -1,0 +1,16 @@
+error,	""".
+identifier,	"RpI".
+error,	".".
+identifier,	"e".
+error,	"*".
+error,	"\".
+error,	"9G".
+error,	"<".
+error,	"3I".
+error,	"%".
+identifier,	"P".
+error,	"/".
+identifier,	"MYi".
+error,	":".
+identifier,	"W".
+eof.

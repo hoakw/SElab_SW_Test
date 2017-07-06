@@ -1,0 +1,14 @@
+identifier,	"RfBt0t".
+error,	":".
+identifier,	"x".
+error,	"$".
+identifier,	"lyx".
+error,	"/".
+identifier,	"c".
+bquote.
+identifier,	"HF".
+error,	"*".
+numeric,	1.
+error,	"$".
+numeric,	2.
+eof.

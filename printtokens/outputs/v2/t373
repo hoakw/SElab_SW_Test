@@ -1,0 +1,4 @@
+error,	"".
+quote.
+lparen.
+eof.

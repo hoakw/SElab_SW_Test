@@ -1,0 +1,12 @@
+error,	"~".
+identifier,	"H".
+comma.
+identifier,	"D".
+error,	"^".
+identifier,	"K".
+rparen.
+character,	";".
+identifier,	"Q".
+error,	"\".
+identifier,	"DEQ".
+eof.

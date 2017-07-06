@@ -1,0 +1,19 @@
+identifier,	"z".
+error,	":".
+identifier,	"Y".
+quote.
+identifier,	"i".
+error,	"!".
+error,	"&".
+identifier,	"m0".
+error,	"{".
+rsquare.
+identifier,	"tX".
+character,	":".
+bquote.
+identifier,	"f".
+bquote.
+error,	"@".
+identifier,	"I".
+error,	"^".
+eof.

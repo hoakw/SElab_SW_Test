@@ -1,0 +1,118 @@
+character,	"A".
+keyword,	"and".
+rparen.
+character,	"[".
+identifier,	"j4".
+character,	"_".
+numeric,	3.
+identifier,	"S2MD337SZ45r058AKrh".
+identifier,	"NW".
+comma.
+identifier,	"G0SL".
+error,	"\".
+identifier,	"Jr".
+rparen.
+identifier,	"wTU".
+error,	":".
+identifier,	"ejFce".
+error,	"!".
+identifier,	"I".
+error,	"&".
+bquote.
+identifier,	"b".
+rsquare.
+error,	"~".
+error,	"2q".
+error,	"@".
+identifier,	"uhHY8gDzI".
+error,	"!".
+identifier,	"D1".
+error,	"}".
+identifier,	"y0".
+error,	"!".
+error,	"2NAK".
+error,	"*".
+lsquare.
+error,	"}".
+error,	"@".
+error,	"~".
+identifier,	"ueDopL".
+string,	"j{'PW0cKx)uUuN/bb.bS#wVqkK!%5VO4Y1KytJAwpqAJjOSZ".
+string,	"A;d2K61q".
+character,	"+".
+identifier,	"L".
+error,	".".
+rsquare.
+identifier,	"As4".
+error,	"?".
+error,	"2c".
+error,	"%".
+identifier,	"a".
+error,	"}".
+identifier,	"xA".
+character,	"(".
+identifier,	"Yfs".
+character,	"X".
+identifier,	"D".
+comma.
+identifier,	"wl".
+error,	"@".
+identifier,	"pX".
+error,	"@".
+keyword,	"and".
+rparen.
+identifier,	"j5j869Z5o37".
+error,	""c\+]0v88G)o6Zc".
+identifier,	"Jo8".
+error,	"*".
+identifier,	"oc".
+quote.
+error,	"=".
+identifier,	"prDzdfk".
+lparen.
+quote.
+identifier,	"NB".
+bquote.
+identifier,	"Qk".
+string,	"".
+error,	"!".
+error,	"-".
+lsquare.
+identifier,	"Ym".
+character,	"\".
+identifier,	"LI".
+error,	""]lambda".
+rparen.
+keyword,	"=>".
+keyword,	"or".
+string,	"O".
+string,	"BA3nKpKNf.$i&}2@ts+lP~6P".
+string,	"p'ahCxQTcS.g`wadKmF%dU".
+identifier,	"hnZ".
+error,	"_".
+identifier,	"p".
+error,	"<".
+identifier,	"EhGExAS8fR".
+error,	"/".
+identifier,	"J".
+lparen.
+identifier,	"otJC".
+error,	".".
+identifier,	"EK".
+error,	"<".
+identifier,	"x".
+error,	"=".
+identifier,	"r".
+rsquare.
+lsquare.
+error,	".".
+rparen.
+keyword,	"lambda".
+rparen.
+character,	"D".
+numeric,	95.
+string,	"k".
+identifier,	"MfV8".
+rparen.
+error,	"96G".
+eof.

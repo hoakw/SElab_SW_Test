@@ -1,0 +1,17 @@
+identifier,	"HM".
+error,	"$".
+numeric,	1.
+error,	"+".
+identifier,	"R".
+error,	"*".
+identifier,	"ygTKrg1mR".
+error,	"{".
+character,	"%".
+identifier,	"X".
+error,	"\".
+error,	"~".
+error,	"%".
+identifier,	"W".
+error,	"=".
+error,	"&".
+error

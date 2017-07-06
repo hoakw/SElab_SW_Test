@@ -1,0 +1,12 @@
+keyword,	"lambda".
+numeric,	20.
+quote.
+comma.
+rsquare.
+numeric,	18.
+string,	":".
+identifier,	"z770911x".
+numeric,	45.
+numeric,	30.
+keyword,	"=>".
+eof.

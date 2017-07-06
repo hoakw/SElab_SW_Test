@@ -1,0 +1,44 @@
+keyword,	"=>".
+identifier,	"n6hj".
+bquote.
+keyword,	"lambda".
+lsquare.
+identifier,	"RJu9".
+keyword,	"xor".
+keyword,	"if".
+keyword,	"and".
+identifier,	"C".
+keyword,	"if".
+keyword,	"=>".
+rsquare.
+numeric,	7.
+bquote.
+keyword,	"and".
+error,	";                             ;                             ;".
+identifier,	"ak".
+keyword,	"and".
+identifier,	"eoV".
+numeric,	5.
+lsquare.
+string,	"kp".
+string,	;                         "dwYRz".
+keyword,	"lambda".
+keyword,	"xor".
+rparen.
+numeric,	7.
+numeric,	1.
+identifier,	"d".
+rparen.
+keyword,	"and".
+keyword,	"xor".
+rparen.
+quote.
+error,	";                            ;".
+lparen.
+keyword,	"and".
+quote.
+identifier,	"H0".
+lparen.
+rsquare.
+numeric,	1.
+eof.

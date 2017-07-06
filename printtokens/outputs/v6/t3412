@@ -1,0 +1,8 @@
+numeric,	37.
+error,	""".
+error,	"?".
+string,	"".
+quote.
+identifier,	"D".
+error,	""xor #n".
+eof.

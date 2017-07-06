@@ -1,0 +1,23 @@
+identifier,	"KKJ7".
+quote.
+bquote.
+identifier,	"Z".
+bquote.
+identifier,	"lO".
+keyword,	"if".
+keyword,	"=>".
+numeric,	1.
+keyword,	"if".
+identifier,	"PJBx5".
+identifier,	"yLf3".
+string,	"gz".
+identifier,	"m".
+lparen.
+keyword,	"if".
+identifier,	"ABH3".
+keyword,	"xor".
+rparen.
+identifier,	"P".
+keyword,	"xor".
+keyword,	"lambda".
+eof.

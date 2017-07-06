@@ -1,0 +1,45 @@
+string,	"H".
+numeric,	53.
+keyword,	"=>".
+error,	"/".
+identifier,	"z".
+bquote.
+identifier,	"MnPhH".
+lparen.
+identifier,	"kf".
+bquote.
+error,	":".
+error,	".".
+error,	".".
+numeric,	0.
+error,	"_".
+identifier,	"Xr".
+error,	"@".
+character,	"W".
+lparen.
+identifier,	"j".
+numeric,	2.
+error,	"@".
+identifier,	"YsL".
+error,	"|".
+identifier,	"pnQNOY".
+error,	"@".
+error,	"\".
+error,	"@".
+identifier,	"N".
+error,	"@".
+identifier,	"PDW".
+error,	"_".
+identifier,	"aW".
+error,	"?".
+identifier,	"re".
+error,	".".
+identifier,	"b".
+rsquare.
+identifier,	"L".
+rparen.
+identifier,	"f3cor".
+character,	"8".
+lsquare.
+string,	"T".
+eof.

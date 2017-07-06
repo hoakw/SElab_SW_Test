@@ -1,0 +1,14 @@
+string,	"1".
+error,	"-".
+identifier,	"Eh7rJ".
+error,	"&".
+numeric,	7.
+error,	"\".
+rsquare.
+identifier,	"A".
+error,	"+".
+error,	"@".
+identifier,	"LhM".
+error,	"^".
+keyword,	"and".
+eof.

@@ -1,0 +1,21 @@
+string,	",".
+identifier,	"f6".
+error,	"-".
+identifier,	"ufE".
+error,	"^".
+error,	"0o33".
+identifier,	"Kv".
+error,	"/".
+identifier,	"D".
+error,	"/".
+identifier,	"EX".
+rparen.
+identifier,	"FW".
+error,	"|".
+rparen.
+identifier,	"I".
+error,	"-".
+identifier,	"G".
+lparen.
+error,	"|".
+eof.

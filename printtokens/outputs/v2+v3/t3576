@@ -1,0 +1,27 @@
+lparen.
+bquote.
+rsquare.
+identifier,	"f1967589".
+rparen.
+keyword,	"if".
+numeric,	55.
+identifier,	"uX".
+error,	"=".
+identifier,	"X".
+error,	"@".
+error,	"6NvB".
+comma.
+error,	"^".
+identifier,	"N".
+error,	"\".
+error,	"_".
+identifier,	"L".
+error,	"_".
+error,	"6fecZMKs4".
+error,	"=".
+bquote.
+string,	"J".
+keyword,	"lambda".
+rsquare.
+identifier,	"Q".
+eof.

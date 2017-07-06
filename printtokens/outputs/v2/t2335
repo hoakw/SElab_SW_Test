@@ -1,0 +1,29 @@
+numeric,	8.
+error,	"{".
+error,	"?".
+identifier,	"Pq".
+error,	"-".
+quote.
+error,	"391Lr0fPtuJ".
+quote.
+error,	"9c".
+error,	"|".
+identifier,	"FgA3J".
+character,	"O".
+identifier,	"DC".
+character,	"X".
+identifier,	"aSp".
+error,	"9O".
+error,	"{".
+identifier,	"k5ZlLF".
+rparen.
+identifier,	"k".
+error,	"/".
+identifier,	"p".
+character,	"$".
+string,	"%".
+quote.
+bquote.
+identifier,	"dQ31nFh78IQ057a7Pj253oQZ1y7".
+string,	"3uI<GxZ;(_uxYo{]VwZx".
+eof.

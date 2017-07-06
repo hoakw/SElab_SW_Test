@@ -1,0 +1,22 @@
+identifier,	"hF2".
+error,	"*".
+error,	"$".
+identifier,	"CG".
+error,	":".
+identifier,	"E".
+error,	"<".
+error,	"!".
+numeric,	3.
+rparen.
+identifier,	"CE5YXu".
+error,	":".
+identifier,	"HcwagC".
+error,	"~".
+error,	"!".
+identifier,	"NVi6d5".
+string,	"sbNS".
+identifier,	"Qr".
+error,	"~".
+identifier,	"fb".
+character,	"U".
+eof.

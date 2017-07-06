@@ -1,0 +1,46 @@
+character,	"9".
+identifier,	"mu".
+string,	"L1 V?i){".
+identifier,	"U".
+quote.
+error,	"-".
+error,	"1CvMb".
+error,	".".
+error,	"+".
+error,	"1Y".
+error,	"^".
+identifier,	"s".
+quote.
+identifier,	"pVw".
+error,	"&".
+quote.
+error,	"{".
+identifier,	"H".
+error,	".".
+identifier,	"P7".
+error,	"!".
+identifier,	"C".
+error,	"-".
+identifier,	"gYqLO".
+error,	"5v".
+error,	"|".
+error,	"1Y9v5s".
+rsquare.
+numeric,	8.
+error,	"&".
+identifier,	"m".
+lsquare.
+error,	"{".
+identifier,	"g".
+character,	"H".
+identifier,	"u".
+error,	"|".
+error,	""".
+string,	"Op%'WY*hZ*y0Ce1s%q2:0sRe~".
+numeric,	44.
+character,	"d".
+keyword,	"or".
+lsquare.
+numeric,	45.
+numeric,	64.
+eof.

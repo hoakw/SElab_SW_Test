@@ -1,0 +1,29 @@
+identifier,	"yq".
+bquote.
+numeric,	4.
+error,	"=".
+identifier,	"CK".
+error,	"<".
+identifier,	"H".
+error,	"\".
+lparen.
+error,	"_".
+error,	"!".
+identifier,	"f".
+error,	"=".
+error,	"6C".
+error,	"|".
+identifier,	"wRIs".
+lparen.
+identifier,	"e7".
+lsquare.
+error,	"*".
+identifier,	"K".
+rparen.
+identifier,	"X".
+error,	"}".
+identifier,	"zB".
+error,	"~".
+error,	"@".
+identifier,	"t".
+eof.

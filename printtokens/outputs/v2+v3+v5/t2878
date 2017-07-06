@@ -1,0 +1,21 @@
+identifier,	"n".
+error,	"/".
+numeric,	7.
+comma.
+identifier,	"ELBP43rPrHJ".
+error,	"*".
+identifier,	"x".
+error,	"+".
+identifier,	"fLa".
+error,	"$".
+identifier,	"PrzN".
+rparen.
+error,	"^".
+identifier,	"zB".
+error,	"$".
+error,	"\".
+identifier,	"bU".
+error,	""}2]".
+error,	"2q".
+comma.
+eof.

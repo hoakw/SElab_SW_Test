@@ -1,0 +1,5 @@
+identifier,	"h0".
+string,	"'".
+quote.
+keyword,	"=>".
+eof.

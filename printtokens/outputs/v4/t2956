@@ -1,0 +1,42 @@
+character,	"y".
+identifier,	"c".
+error,	"+".
+comma.
+error,	"!".
+identifier,	"z".
+error,	"}".
+quote.
+identifier,	"a".
+error,	"<".
+identifier,	"NJbt4b".
+error,	"<".
+quote.
+identifier,	"DCpOi8".
+error,	":".
+identifier,	"o".
+lparen.
+identifier,	"B".
+error,	"&".
+identifier,	"U4F1agZlKV".
+error,	"!".
+identifier,	"x".
+identifier,	"Kya".
+error,	"~".
+numeric,	5.
+lparen.
+identifier,	"KO".
+error,	"{".
+error,	"*".
+error,	"\".
+identifier,	"F1".
+error,	"/".
+identifier,	"s".
+error,	"%".
+identifier,	"L9is".
+identifier,	"X".
+bquote.
+comma.
+identifier,	"mh".
+rsquare.
+identifier,	"O".
+eof.

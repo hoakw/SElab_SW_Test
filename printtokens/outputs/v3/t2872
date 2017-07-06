@@ -1,0 +1,25 @@
+identifier,	"pT".
+identifier,	"g".
+bquote.
+identifier,	"o".
+quote.
+identifier,	"XSOb4".
+error,	"|".
+error,	"21s".
+rparen.
+identifier,	"SC".
+error,	"~".
+identifier,	"mM".
+error,	"{".
+error,	"~".
+identifier,	"O".
+lsquare.
+identifier,	"SmyOy".
+bquote.
+identifier,	"pD".
+error,	"~".
+numeric,	3.
+error,	"}".
+rparen.
+numeric,	95.
+eof.

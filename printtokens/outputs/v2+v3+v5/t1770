@@ -1,0 +1,15 @@
+keyword,	"and".
+numeric,	9.
+lparen.
+lparen.
+rsquare.
+keyword,	"and".
+keyword,	"=>".
+keyword,	"=>".
+comma.
+numeric,	3.
+identifier,	"m7eI".
+keyword,	"=>".
+rsquare.
+identifier,	"he".
+eof.

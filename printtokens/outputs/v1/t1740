@@ -1,0 +1,38 @@
+keyword,	"and".
+lsquare.
+keyword,	"and".
+bquote.
+identifier,	"Zr".
+keyword,	"lambda".
+keyword,	"or".
+identifier,	"d2SR".
+keyword,	"and".
+numeric,	9.
+lsquare.
+keyword,	"xor".
+bquote.
+rsquare.
+keyword,	"and".
+keyword,	"or".
+identifier,	"wIl8".
+keyword,	"and".
+lsquare.
+keyword,	"lambda".
+identifier,	"M".
+keyword,	"lambda".
+bquote.
+rparen.
+keyword,	"=>".
+identifier,	"D7L".
+keyword,	"lambda".
+identifier,	"O3QYoYT".
+keyword,	"if".
+identifier,	"MM".
+keyword,	"and".
+bquote.
+identifier,	"d1Qq".
+string,	"DJ".
+keyword,	"lambda".
+comma.
+numeric,	6.
+eof.

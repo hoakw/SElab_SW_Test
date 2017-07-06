@@ -1,0 +1,9 @@
+identifier,	"Yo0".
+error,	"/".
+quote.
+bquote.
+identifier,	"P".
+error,	".".
+identifier,	"F".
+character,	"j".
+eof.

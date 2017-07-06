@@ -1,0 +1,7 @@
+keyword,	"=>".
+identifier,	"K1".
+bquote.
+string,	"K".
+identifier,	"sz".
+keyword,	"=>".
+eof.

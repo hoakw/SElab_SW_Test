@@ -1,0 +1,15 @@
+character,	"-".
+rparen.
+error,	"\".
+error,	"=".
+error,	"|".
+identifier,	"y67lw".
+error,	"\".
+identifier,	"gvWU".
+bquote.
+numeric,	0.
+error,	"}".
+bquote.
+identifier,	"FG3E".
+rparen.
+eof.

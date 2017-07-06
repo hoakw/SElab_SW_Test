@@ -1,0 +1,15 @@
+keyword,	"or".
+identifier,	"K".
+lsquare.
+keyword,	"lambda".
+rsquare.
+keyword,	"xor".
+identifier,	"FcjCu".
+lsquare.
+error,	";                 ;".
+numeric,	4.
+keyword,	"=>".
+keyword,	"if".
+keyword,	"=>".
+identifier,	"CpR7".
+eof.

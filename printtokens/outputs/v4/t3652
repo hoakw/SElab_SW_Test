@@ -1,0 +1,34 @@
+keyword,	"and".
+character,	"x".
+numeric,	54.
+character,	"!".
+numeric,	87.
+error,	"^".
+lparen.
+numeric,	2.
+error,	"{".
+identifier,	"XTG".
+character,	"8".
+quote.
+error,	"%".
+lparen.
+error,	"^".
+numeric,	8.
+rsquare.
+error,	"^".
+error,	"-".
+identifier,	"k".
+error,	"?".
+lparen.
+error,	"~".
+identifier,	"o".
+error,	"!".
+identifier,	"c".
+error,	"=".
+identifier,	"anAF".
+error,	"?".
+identifier,	"Dh7kF97x6Xp".
+error,	"&".
+error,	"|".
+identifier,	"Skr34".
+eof.

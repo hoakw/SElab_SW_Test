@@ -1,0 +1,21 @@
+string,	" ".
+quote.
+lparen.
+character,	"A".
+error,	""".
+identifier,	"H".
+error,	"+".
+identifier,	"b".
+error,	"^".
+identifier,	"r".
+error,	"}".
+identifier,	"Q5R7RU".
+error,	"=".
+identifier,	"UIgt".
+rsquare.
+error,	"{".
+identifier,	"iqINi".
+error,	"?".
+identifier,	"umt".
+error,	""if rg".
+eof.

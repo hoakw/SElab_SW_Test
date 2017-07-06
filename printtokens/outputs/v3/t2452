@@ -1,0 +1,12 @@
+identifier,	"TADr".
+error,	"@".
+numeric,	7.
+lsquare.
+identifier,	"m".
+error,	"%".
+identifier,	"K".
+error,	"{".
+identifier,	"E4".
+error,	"_".
+lsquare.
+eof.
