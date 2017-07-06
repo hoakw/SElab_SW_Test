@@ -1,8 +1,0 @@
-lparen.
-comma.
-identifier,	"i".
-character,	"q".
-character,	"t".
-numeric,	4.
-rsquare.
-eof.

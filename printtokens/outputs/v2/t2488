@@ -1,9 +1,0 @@
-identifier,	"V".
-numeric,	50.
-keyword,	"lambda".
-character,	"9".
-rsquare.
-rparen.
-identifier,	"f".
-error,	"|".
-error

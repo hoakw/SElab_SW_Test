@@ -1,8 +1,0 @@
-error,	"!".
-identifier,	"kso".
-error,	"=".
-identifier,	"K".
-error,	"=".
-error,	"\".
-keyword,	"or".
-eof.

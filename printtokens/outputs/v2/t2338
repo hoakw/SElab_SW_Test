@@ -1,8 +1,0 @@
-character,	"".
-error,	"$".
-numeric,	4.
-error,	"}".
-error,	".".
-error,	"*".
-identifier,	"S".
-eof.

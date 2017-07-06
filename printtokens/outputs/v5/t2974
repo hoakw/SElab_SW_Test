@@ -1,8 +1,0 @@
-keyword,	"and".
-bquote.
-numeric,	1.
-error,	";                   
-                   
-                   ;".
-string,	"$#charo".
-eof.

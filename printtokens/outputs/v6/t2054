@@ -1,8 +1,0 @@
-identifier,	"p".
-lparen.
-identifier,	"Mb".
-error,	"@".
-identifier,	"j".
-error,	"^".
-error,	"?".
-eof.

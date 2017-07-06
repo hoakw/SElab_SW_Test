@@ -1,9 +1,0 @@
-numeric,	28.
-keyword,	"lambda".
-identifier,	"p".
-error,	"+".
-identifier,	"T".
-error,	"/".
-rsquare.
-identifier,	"v".
-eof.
