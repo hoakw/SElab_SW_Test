@@ -1,6 +1,4 @@
 # SElab_SW_Test
-SElab Software Testing Tool 
-
 
 SElab software Testing Tool!!
 
