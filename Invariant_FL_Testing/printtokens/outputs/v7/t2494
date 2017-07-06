@@ -1,0 +1,21 @@
+identifier,	"cU".
+lparen.
+identifier,	"C".
+rparen.
+identifier,	"i".
+comma.
+numeric,	4.
+error,	"\".
+comma.
+identifier,	"ipo".
+error,	"|".
+error,	"|".
+identifier,	"gIFYo".
+error,	"$".
+identifier,	"oo".
+error,	"!".
+error,	"1U".
+error,	"!".
+identifier,	"XbTEGOe".
+error,	"\".
+eof.

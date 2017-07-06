@@ -1,0 +1,11 @@
+lsquare.
+identifier,	"k".
+error,	"/".
+bquote.
+identifier,	"Wj".
+rsquare.
+error,	"4Mts".
+error,	"}".
+identifier,	"jlambda".
+numeric,	4.
+eof.

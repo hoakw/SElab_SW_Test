@@ -1,0 +1,49 @@
+numeric,	25.
+error,	""Gfl#".
+error,	"?".
+identifier,	"d".
+error,	"$".
+keyword,	"xor".
+error,	"4td".
+error,	"|".
+identifier,	"rjLR".
+error,	"?".
+error,	"\".
+character,	"M".
+identifier,	"Ns2".
+error,	"/".
+error,	"{".
+identifier,	"t".
+rsquare.
+quote.
+identifier,	"hSc".
+error,	"=".
+quote.
+identifier,	"Z32Mk1".
+error,	"/".
+identifier,	"NXyg7zD".
+error,	"^".
+identifier,	"t".
+error,	"=".
+identifier,	"DS3Y".
+error,	"@".
+error,	"%".
+lparen.
+bquote.
+bquote.
+identifier,	"lBmH".
+error,	"_".
+error,	"^".
+character,	"t".
+identifier,	"yWuR7".
+character,	"I".
+identifier,	"TPnWP".
+error,	"!".
+comma.
+identifier,	"u".
+lparen.
+identifier,	"Y".
+rparen.
+error,	"<".
+identifier,	"VJ8fD".
+eof.

@@ -1,0 +1,4 @@
+error,	"".
+keyword,	"=>".
+keyword,	"=>".
+eof.

@@ -1,0 +1,18 @@
+character,	"Z".
+error,	"?".
+error,	"}".
+identifier,	"F".
+lsquare.
+identifier,	"rnGu".
+string,	"CDs(EAt3".
+error,	"&".
+identifier,	"J".
+bquote.
+error,	"6X".
+error,	"@".
+numeric,	8.
+string,	;"W-zvxzkD_*NG\%DEldqP.H!nseT".
+keyword,	"lambda".
+rparen.
+keyword,	"=>".
+eof.

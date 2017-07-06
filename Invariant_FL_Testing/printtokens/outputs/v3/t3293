@@ -1,0 +1,30 @@
+error,	"0C".
+error,	"/".
+numeric,	35.
+error,	"/".
+identifier,	"ZIk5".
+error,	"~".
+identifier,	"RL".
+error,	"$".
+identifier,	"q".
+bquote.
+identifier,	"D228".
+error,	"}".
+identifier,	"nSDqcM".
+error,	":".
+error,	"*".
+identifier,	"euzs".
+error,	"<".
+identifier,	"m".
+bquote.
+error,	"%".
+identifier,	"I".
+error,	"*".
+error,	"8N".
+error,	"%".
+numeric,	5.
+error,	"<".
+identifier,	"m3".
+error,	"<".
+identifier,	"S".
+eof.

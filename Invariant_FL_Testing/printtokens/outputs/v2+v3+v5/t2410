@@ -1,0 +1,13 @@
+character,	"[".
+string,	"p".
+lsquare.
+error,	"{".
+error,	"+".
+identifier,	"RO".
+error,	".".
+numeric,	0.
+error,	"?".
+identifier,	"k".
+error,	"%".
+identifier,	"kux".
+eof.

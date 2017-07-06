@@ -1,0 +1,15 @@
+identifier,	"z".
+comma.
+rsquare.
+identifier,	"dO".
+error,	"\".
+identifier,	"G".
+error,	":".
+character,	":".
+keyword,	"lambda".
+keyword,	"and".
+identifier,	"X2".
+comma.
+lsquare.
+character,	"?".
+eof.

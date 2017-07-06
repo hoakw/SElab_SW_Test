@@ -1,0 +1,7 @@
+lparen.
+string,	"`".
+lsquare.
+keyword,	"lambda".
+numeric,	14.
+numeric,	40.
+eof.

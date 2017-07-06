@@ -1,0 +1,17 @@
+numeric,	2.
+rparen.
+string,	"i".
+character,	"Z".
+numeric,	23.
+string,	"WU{Z~oFL,S|<71SdQmMwae|%".
+identifier,	"RC".
+error,	"$".
+identifier,	"DZW".
+error,	"}".
+identifier,	"cNRiFP".
+error,	"=".
+numeric,	4.
+string,	"A".
+error,	"{".
+error,	""".
+eof.

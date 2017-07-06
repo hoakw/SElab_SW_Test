@@ -1,0 +1,3 @@
+error,	"".
+string,	"YFxG".
+eof.

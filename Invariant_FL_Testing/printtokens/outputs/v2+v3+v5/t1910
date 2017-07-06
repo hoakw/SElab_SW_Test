@@ -1,0 +1,11 @@
+string,	"pu".
+keyword,	"and".
+keyword,	"xor".
+identifier,	"gI".
+bquote.
+string,	"Mm".
+rparen.
+keyword,	"=>".
+rparen.
+keyword,	"if".
+eof.

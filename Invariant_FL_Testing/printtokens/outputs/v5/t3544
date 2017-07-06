@@ -1,0 +1,15 @@
+numeric,	4.
+error,	"\".
+identifier,	"ky".
+error,	"?".
+identifier,	"Y".
+error,	"\".
+error,	"|".
+error,	"!".
+rparen.
+numeric,	9.
+quote.
+lparen.
+identifier,	"LY".
+quote.
+eof.

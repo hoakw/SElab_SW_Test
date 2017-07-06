@@ -1,0 +1,16 @@
+identifier,	"gT".
+comma.
+numeric,	7.
+identifier,	"a".
+error,	"|".
+identifier,	"u".
+error,	"^".
+identifier,	"eHV".
+rsquare.
+bquote.
+identifier,	"V".
+error,	"*".
+identifier,	"v".
+numeric,	49.
+bquote.
+eof.

@@ -1,0 +1,21 @@
+keyword,	"lambda".
+keyword,	"and".
+numeric,	2.
+identifier,	"SVus8".
+keyword,	"xor".
+string,	"YZ".
+identifier,	"QG".
+identifier,	"sQciR".
+keyword,	"or".
+error,	";                              ;".
+identifier,	"gkTzg".
+identifier,	"oEs9".
+lparen.
+rparen.
+keyword,	"xor".
+keyword,	"and".
+keyword,	"xor".
+keyword,	"lambda".
+lsquare.
+identifier,	"HI".
+eof.

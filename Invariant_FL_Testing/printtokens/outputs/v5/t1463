@@ -1,0 +1,34 @@
+keyword,	"lambda".
+identifier,	"N".
+identifier,	"bU".
+string,	"nuE".
+keyword,	"xor".
+identifier,	";           l5tY".
+quote.
+identifier,	"Dm".
+identifier,	"r".
+identifier,	"mj".
+keyword,	"and".
+identifier,	";                                 p8".
+keyword,	"and".
+identifier,	"lEk6".
+string,	"huJ".
+identifier,	";                   KFfpld4".
+numeric,	7.
+keyword,	"if".
+error,	";                                           ;".
+keyword,	"and".
+rparen.
+error,	"".
+error,	";                                                    ;".
+numeric,	8.
+keyword,	"if".
+keyword,	"and".
+rsquare.
+identifier,	"a".
+string,	"HCm".
+rsquare.
+error,	";".
+error,	"".
+error,	";".
+eof.

@@ -1,0 +1,21 @@
+comma.
+error,	"%".
+quote.
+error,	"&".
+error,	"<".
+identifier,	"Cfg".
+error,	"@".
+numeric,	9.
+error,	"}".
+identifier,	"gZ".
+error,	"{".
+identifier,	"Of3w".
+error,	"^".
+identifier,	"cWfZ".
+error,	""M4rZ".
+character,	"M".
+comma.
+bquote.
+keyword,	"=>".
+character,	"B".
+eof.

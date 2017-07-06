@@ -1,0 +1,4 @@
+error,	"^".
+string,	"*".
+keyword,	"or".
+eof.

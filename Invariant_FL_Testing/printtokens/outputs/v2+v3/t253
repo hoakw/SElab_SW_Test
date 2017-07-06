@@ -1,0 +1,3 @@
+error,	"".
+identifier,	"bFXGZ".
+eof.

@@ -1,0 +1,12 @@
+character,	"(".
+identifier,	"X6".
+rparen.
+identifier,	"W".
+error,	"%".
+identifier,	"qon".
+error,	"=".
+identifier,	"YYaq".
+rsquare.
+identifier,	"Q".
+error,	"_".
+eof.

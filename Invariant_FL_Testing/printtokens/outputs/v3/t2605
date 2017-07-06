@@ -1,0 +1,21 @@
+identifier,	"fD".
+bquote.
+error,	"}".
+identifier,	"s".
+error,	"=".
+identifier,	"H".
+error,	"@".
+error,	".".
+identifier,	"K".
+rsquare.
+error,	"-".
+comma.
+rsquare.
+identifier,	"n".
+error,	"|".
+identifier,	"n".
+error,	"=".
+identifier,	"bSz".
+keyword,	"xor".
+identifier,	"l6X79849b381B024Hfz2u6L7303WV0MJ27n76YDR84NVLA9266C71my".
+eof.

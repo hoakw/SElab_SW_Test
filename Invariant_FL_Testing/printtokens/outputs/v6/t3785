@@ -1,0 +1,12 @@
+error,	"$".
+identifier,	"NCKCS".
+error,	"^".
+error,	"^".
+lparen.
+error,	"/".
+error,	"*".
+identifier,	"LAXN".
+rparen.
+error,	"~".
+numeric,	1.
+eof.

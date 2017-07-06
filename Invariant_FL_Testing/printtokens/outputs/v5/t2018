@@ -1,0 +1,7 @@
+keyword,	"and".
+string,	"Ah".
+bquote.
+keyword,	"or".
+identifier,	";                v".
+keyword,	"if".
+eof.

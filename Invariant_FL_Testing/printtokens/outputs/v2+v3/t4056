@@ -1,0 +1,8 @@
+string,	"qh".
+numeric,	70.
+keyword,	"and".
+rsquare.
+identifier,	"HA".
+rparen.
+keyword,	"lambda".
+eof.

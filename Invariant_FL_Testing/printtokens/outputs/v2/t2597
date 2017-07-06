@@ -1,0 +1,107 @@
+numeric,	78.
+keyword,	"or".
+character,	"#".
+character,	"t".
+identifier,	"LV".
+error,	""mfG|Qw,T".
+identifier,	"r".
+error,	"$".
+error,	"*".
+identifier,	"lh".
+rparen.
+numeric,	2.
+error,	""".
+lsquare.
+identifier,	"aIE".
+error,	"_".
+identifier,	"bC".
+error,	"*".
+identifier,	"TKb".
+identifier,	"HzL".
+rparen.
+error,	"?".
+error,	"}".
+identifier,	"e".
+error,	"~".
+identifier,	"s".
+error,	"?".
+identifier,	"WtXfD".
+error,	"$".
+identifier,	"O".
+error,	"$".
+identifier,	"C".
+error,	"/".
+identifier,	"KgN".
+identifier,	"U".
+keyword,	"and".
+comma.
+comma.
+identifier,	"I8WmMG6Fc5zT297h3eCgP2UJHT45XKABuP6942gZ3h".
+rparen.
+identifier,	"GOjELBrM7926Pg4iH278M1".
+identifier,	"e24q4".
+keyword,	"=>".
+error,	"71aw".
+error,	"\".
+identifier,	"adfqb".
+error,	"{".
+error,	"@".
+identifier,	"J".
+error,	".".
+identifier,	"yZKYKU".
+keyword,	"xor".
+identifier,	"r3xnC4P9N7UG97Bj6nkTEGLdsj".
+numeric,	61.
+lsquare.
+identifier,	"b".
+error,	"~".
+identifier,	"M".
+error,	"&".
+identifier,	"c".
+character,	"'".
+error,	"%".
+identifier,	"AUv".
+error,	"!".
+error,	"*".
+character,	"D".
+error,	"%".
+error,	"*".
+identifier,	"M7".
+error,	"?".
+identifier,	"QauSb".
+bquote.
+identifier,	"bvez".
+error,	"|".
+error,	"5w53L".
+quote.
+identifier,	"B".
+error,	".".
+identifier,	"pTv".
+error,	"$".
+lparen.
+identifier,	"wrL".
+string,	"S|_CKqMywn!#YIY0;JMkDOWq/pqR?cHze%|\{#82 WgDR".
+string,	"Wl_E:)%$2K=\Zs@KnmOtERq`GsM6fLfcd[u{Y~0/OMn/2\gGFb".
+character,	"e".
+identifier,	"GvkM".
+error,	"?".
+identifier,	"gW".
+error,	"@".
+error,	"+".
+error,	"/".
+identifier,	"S".
+rsquare.
+identifier,	"y".
+error,	"_".
+error,	"*".
+error,	"|".
+identifier,	"FRD9X".
+error,	"*".
+identifier,	"ufe0".
+error,	"@".
+identifier,	"YY".
+error,	"!".
+error,	"~".
+identifier,	"yY".
+comma.
+error

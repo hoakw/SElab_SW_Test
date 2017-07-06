@@ -1,0 +1,33 @@
+identifier,	"t".
+error,	"-".
+lparen.
+error,	"^".
+identifier,	"Lh".
+error,	":".
+error,	"-".
+identifier,	"OB".
+error,	"$".
+error,	"-".
+identifier,	"Lou".
+error,	"~".
+identifier,	"d".
+error,	"*".
+identifier,	"Y8".
+bquote.
+keyword,	"and".
+keyword,	"or".
+identifier,	"aSd".
+error,	""-oXf)sdOW\4hie._B^!U^a^O-".
+quote.
+identifier,	"qJdz".
+error,	"+".
+identifier,	"A".
+lsquare.
+error,	"=".
+identifier,	"PIQb".
+quote.
+identifier,	"N1n".
+error,	".".
+error,	"7L".
+error,	""88".
+eof.

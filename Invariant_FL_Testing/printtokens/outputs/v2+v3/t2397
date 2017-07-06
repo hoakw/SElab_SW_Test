@@ -1,0 +1,12 @@
+character,	"?".
+lsquare.
+identifier,	"g".
+error,	"\".
+identifier,	"iiW".
+error,	"\".
+identifier,	"aL".
+error,	"!".
+error,	"-".
+identifier,	"f".
+error,	"!".
+eof.

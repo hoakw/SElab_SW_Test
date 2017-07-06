@@ -1,0 +1,36 @@
+error,	"=".
+error,	"_".
+error,	"\".
+numeric,	4.
+error,	"*".
+error,	"~".
+error,	"+".
+error,	"6p2T".
+error,	"%".
+error,	"5oATe16".
+error,	"+".
+identifier,	"DLH".
+string,	;"U%l9xzA@rUL".
+identifier,	"S9".
+keyword,	"or".
+string,	"O~%;h2%DtQ{REadx&[9KgFo_Ysg[z5I_CK\%-d<fg+q:jG}?zKDv Y~Y=".
+rparen.
+character,	"8".
+string,	"0".
+character,	"l".
+string,	"Z/-xwHK;T@Prb;c+5tUr".
+identifier,	"Q3lambda".
+string,	"E%T1?".
+identifier,	"e".
+quote.
+identifier,	"wv".
+quote.
+error,	"/".
+identifier,	"dgyMoW".
+error,	""16 74 o1or".
+identifier,	"a5".
+keyword,	"and".
+identifier,	"o".
+identifier,	"R86".
+quote.
+eof.

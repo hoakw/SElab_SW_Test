@@ -1,0 +1,22 @@
+Use daikon-5.5.6
+
+###Install
+download daikon-5.5.6 
+Daikon User Manual site : http://plse.cs.washington.edu/daikon/download/doc/index.html
+you can refer to the manual of the link above and proceed with the installation.
+
+###Other project
+We used printtokens. If you want to change test project, please change following source file:
+path : ./bin
+daikon_start.sh
+make_invariants
+build.sh
+
+### make test case
+find universe file.
+cat universe testcase.txt 
+mv testcase ./bin
+
+
+
+

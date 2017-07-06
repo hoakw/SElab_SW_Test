@@ -1,0 +1,49 @@
+quote.
+error,	"|".
+identifier,	"v".
+character,	"i".
+identifier,	"U".
+error,	"<".
+error,	"$".
+identifier,	"F5t8".
+comma.
+error,	"^".
+identifier,	"DlRZD".
+error,	"*".
+identifier,	"GN".
+identifier,	"pz".
+error,	"*".
+quote.
+identifier,	"F".
+keyword,	"=>".
+numeric,	37.
+character,	"w".
+numeric,	99.
+bquote.
+identifier,	"i".
+error,	"-".
+identifier,	"E".
+identifier,	"Q58EJ8".
+bquote.
+error,	":".
+error,	"3wf".
+error,	"$".
+numeric,	5.
+error,	"%".
+identifier,	"oj".
+bquote.
+error,	"_".
+error,	"|".
+error,	"-".
+identifier,	"n0".
+lsquare.
+identifier,	"C".
+error,	"_".
+identifier,	"nCH".
+rsquare.
+error,	"~".
+error,	"*".
+lsquare.
+keyword,	"=>".
+string,	"&".
+eof.

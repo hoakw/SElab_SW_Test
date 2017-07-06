@@ -1,0 +1,31 @@
+character,	"2".
+numeric,	5.
+numeric,	44.
+character,	"e".
+error,	""O@|K2cXmt".
+error,	":".
+numeric,	7.
+lsquare.
+error,	""".
+string,	"=".
+keyword,	"=>".
+identifier,	"H".
+error,	"|".
+identifier,	"XzL".
+character,	"b".
+identifier,	"i".
+rsquare.
+identifier,	"FJfrhs".
+lparen.
+identifier,	"S".
+error,	".".
+identifier,	"S".
+comma.
+error,	"\".
+lparen.
+keyword,	"if".
+character,	"C".
+character,	"0".
+character,	"T".
+keyword,	"=>".
+eof.

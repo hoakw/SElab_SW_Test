@@ -1,0 +1,10 @@
+identifier,	"X".
+error,	"<".
+bquote.
+error,	".".
+error,	"\".
+error,	"/".
+quote.
+character,	"o".
+rparen.
+eof.

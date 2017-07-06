@@ -1,0 +1,5 @@
+keyword,	"lambda".
+identifier,	"E".
+quote.
+numeric,	1.
+eof.

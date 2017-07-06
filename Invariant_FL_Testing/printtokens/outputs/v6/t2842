@@ -1,0 +1,62 @@
+rparen.
+numeric,	0.
+numeric,	39.
+numeric,	21.
+rparen.
+keyword,	"if".
+character,	";".
+character,	"D".
+numeric,	3465.
+identifier,	"OOT10cH808X0222m4lxs5PZ9534m24Nv7NGZE5Dif".
+lparen.
+error,	"979J3".
+keyword,	"if".
+error,	""b^*^GD".
+identifier,	"pqO".
+error,	"~".
+error,	"_".
+error,	"{".
+error,	""".
+comma.
+character,	"Z".
+string,	"C".
+rsquare.
+numeric,	83.
+identifier,	"GA".
+identifier,	"M7".
+character,	""".
+string,	"dfEqF5J2R+S`g=#bRD^Jp@2:k".
+keyword,	"lambda".
+keyword,	"xor".
+identifier,	"ltY".
+error,	"~".
+identifier,	"R".
+error,	"{".
+identifier,	"YqFisb".
+comma.
+error,	"*".
+numeric,	1.
+character,	"A".
+error,	"-".
+error,	"=".
+identifier,	"Fs8Wt".
+error,	"+".
+identifier,	"X".
+error,	"!".
+identifier,	"c2GfrwGFm6".
+error,	"|".
+identifier,	"oz".
+error,	"=".
+error,	"6PdUd8M3".
+error,	"^".
+identifier,	"gN".
+error,	"&".
+identifier,	"LK".
+error,	""14MjQ!~rW`".
+error,	"?".
+error,	"/".
+error,	".".
+identifier,	"L".
+identifier,	"H".
+error,	""".
+eof.

@@ -1,0 +1,17 @@
+string,	"!".
+rsquare.
+bquote.
+error,	"|".
+error,	"+".
+error,	"&".
+identifier,	"A".
+identifier,	"WU".
+error,	"{".
+identifier,	"jVg".
+error,	"_".
+error,	"%".
+comma.
+error,	"|".
+bquote.
+character,	"d".
+eof.

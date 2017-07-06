@@ -1,0 +1,5 @@
+numeric,	65.
+error,	"#".
+error,	"~".
+identifier,	"c1".
+eof.

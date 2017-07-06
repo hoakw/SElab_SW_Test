@@ -1,0 +1,9 @@
+character,	"J".
+string,	"?".
+rparen.
+keyword,	"or".
+string,	"5".
+keyword,	"=>".
+numeric,	3.
+rsquare.
+eof.

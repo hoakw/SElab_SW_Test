@@ -1,0 +1,11 @@
+error,	".".
+error,	"8r".
+error,	"\".
+character,	"9".
+identifier,	"MbIn".
+lparen.
+character,	"; 2".
+lparen.
+string,	"k".
+lparen.
+eof.

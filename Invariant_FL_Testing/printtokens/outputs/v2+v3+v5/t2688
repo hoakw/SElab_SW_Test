@@ -1,0 +1,10 @@
+identifier,	"g".
+error,	"}".
+error,	"|".
+identifier,	"L".
+rparen.
+error,	"!".
+identifier,	"l".
+error,	"@".
+identifier,	"C".
+eof.

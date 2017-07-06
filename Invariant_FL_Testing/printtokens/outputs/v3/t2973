@@ -1,0 +1,14 @@
+keyword,	"lambda".
+identifier,	"i1".
+error,	"$".
+character,	"c".
+identifier,	"harg".
+keyword,	"xor".
+identifier,	"T2".
+error,	"$".
+character,	"c".
+identifier,	"harmc".
+rsquare.
+keyword,	"and".
+keyword,	"and".
+eof.

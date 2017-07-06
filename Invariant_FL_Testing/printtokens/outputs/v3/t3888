@@ -1,0 +1,10 @@
+identifier,	"oaT".
+error,	"*".
+comma.
+error,	".".
+identifier,	"m".
+error,	"|".
+identifier,	"Au".
+error,	"+".
+identifier,	"Q".
+eof.

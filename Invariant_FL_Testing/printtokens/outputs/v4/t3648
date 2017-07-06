@@ -1,0 +1,24 @@
+numeric,	83.
+keyword,	"and".
+numeric,	38.
+error,	"&".
+quote.
+character,	"u".
+error,	"}".
+error,	"/".
+error,	"3LoWR".
+character,	"u".
+identifier,	"jA".
+error,	"-".
+error,	"*".
+error,	"3c".
+error,	"-".
+identifier,	"lY".
+lsquare.
+error,	"\".
+error,	"{".
+identifier,	"GU".
+error,	".".
+error,	""M6".
+identifier,	"mC".
+eof.

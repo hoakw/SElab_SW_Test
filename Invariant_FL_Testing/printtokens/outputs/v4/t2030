@@ -1,0 +1,24 @@
+character,	"Z".
+numeric,	61.
+keyword,	"and".
+character,	"g".
+lparen.
+string,	"1".
+comma.
+numeric,	49.
+identifier,	"kTqif".
+lparen.
+character,	"c".
+identifier,	"eypV".
+numeric,	88.
+lsquare.
+string,	"^".
+keyword,	"=>".
+keyword,	"=>".
+error,	"-".
+numeric,	667449.
+character,	"@".
+numeric,	23.
+character,	"4".
+keyword,	"or".
+eof.

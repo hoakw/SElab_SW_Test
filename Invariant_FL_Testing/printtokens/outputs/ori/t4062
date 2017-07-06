@@ -1,0 +1,8 @@
+keyword,	"or".
+keyword,	"=>".
+identifier,	"Ogand".
+numeric,	14.
+string,	"/".
+string,	"B".
+character,	"%".
+eof.

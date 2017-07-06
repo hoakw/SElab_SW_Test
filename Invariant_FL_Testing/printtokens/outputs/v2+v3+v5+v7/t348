@@ -1,0 +1,3 @@
+error,	"".
+identifier,	"uzA".
+eof.

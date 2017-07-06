@@ -1,0 +1,86 @@
+keyword,	"xor".
+rsquare.
+keyword,	"if".
+keyword,	"=>".
+keyword,	"lambda".
+keyword,	"xor".
+keyword,	"if".
+quote.
+keyword,	"lambda".
+keyword,	"lambda".
+identifier,	"uvovU".
+identifier,	"U".
+numeric,	8.
+comma.
+error,	";".
+identifier,	"jgT2".
+numeric,	8.
+keyword,	"and".
+keyword,	"if".
+error,	";                          ;                          ;".
+comma.
+comma.
+identifier,	"f3Pb".
+comma.
+numeric,	;                                          8.
+keyword,	"lambda".
+keyword,	"=>".
+numeric,	4.
+error,	";".
+rsquare.
+bquote.
+identifier,	";                              gArjwH8".
+keyword,	"lambda".
+string,	"wrq".
+keyword,	"and".
+keyword,	"=>".
+error,	";".
+numeric,	4.
+error,	";".
+identifier,	"Ig".
+error,	""".
+error,	";                                      ;".
+identifier,	"uYsjpw2".
+error,	";                                                      ;".
+comma.
+identifier,	"bHyxf".
+keyword,	"xor".
+quote.
+keyword,	"if".
+keyword,	"or".
+keyword,	"if".
+keyword,	"if".
+identifier,	"By".
+numeric,	6.
+numeric,	4.
+error,	";                          ;".
+identifier,	"VdiP1".
+identifier,	";                          bO".
+string,	"ESn".
+identifier,	"qAg".
+identifier,	"kbc2".
+keyword,	"xor".
+rparen.
+quote.
+error,	";                          ;".
+string,	"mHT".
+bquote.
+identifier,	";              Kg".
+rparen.
+keyword,	"or".
+identifier,	"NU".
+identifier,	"MJ".
+string,	;              "ej".
+error,	";              ;              ;              
+              lamb".
+identifier,	"a".
+identifier,	"SNt7".
+identifier,	"e".
+numeric,	;                           7.
+identifier,	"H".
+quote.
+numeric,	3.
+keyword,	"lambda".
+numeric,	4.
+bquote.
+eof.

@@ -1,0 +1,14 @@
+numeric,	62.
+numeric,	41.
+string,	"oz".
+identifier,	"Lg".
+error,	"$".
+identifier,	"ydn".
+error,	"-".
+error,	"@".
+identifier,	"M".
+error,	"\".
+identifier,	"ddll".
+character,	"t".
+error,	"\".
+eof.

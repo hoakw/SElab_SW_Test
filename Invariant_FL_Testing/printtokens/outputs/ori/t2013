@@ -1,0 +1,14 @@
+bquote.
+comma.
+keyword,	"or".
+identifier,	"H3IR".
+numeric,	5.
+keyword,	"and".
+lparen.
+keyword,	"if".
+string,	"gb".
+numeric,	3.
+identifier,	"l".
+comma.
+numeric,	4.
+eof.

@@ -1,0 +1,103 @@
+character,	"w".
+quote.
+keyword,	"and".
+character,	"(".
+rsquare.
+identifier,	"Jd".
+error,	".".
+numeric,	8.
+error,	"\".
+error,	""hIM".
+error,	"-".
+error,	"6fCee".
+error,	"!".
+identifier,	"TZ".
+error,	"_".
+error,	""".
+string,	"|!54C3*^$[mGdG<sF=N9".
+numeric,	4.
+string,	"smJ|mY".
+identifier,	"V19".
+comma.
+identifier,	"W".
+error,	"+".
+error,	"=".
+error,	"{".
+identifier,	"yck".
+rsquare.
+character,	""".
+identifier,	"J".
+error,	"/".
+error,	"_".
+error,	"_".
+identifier,	"Z9".
+lparen.
+error,	"~".
+error,	"/".
+error,	"$".
+identifier,	"oY".
+error,	"}".
+identifier,	"xRjTN".
+error,	"=".
+character,	"H".
+identifier,	"cU".
+error,	"=".
+identifier,	"hX".
+comma.
+string,	"'[P,|".
+error,	":".
+identifier,	"T".
+rsquare.
+identifier,	"m".
+error,	"}".
+identifier,	"iPhw".
+error,	"~".
+identifier,	"u".
+error,	"_".
+error,	"?".
+comma.
+identifier,	"X".
+lparen.
+error,	"&".
+numeric,	2.
+bquote.
+string,	"".
+error,	"&".
+identifier,	"FXl".
+error,	"!".
+error,	"\".
+identifier,	"qd".
+character,	"d".
+string,	",h@".
+rsquare.
+keyword,	"if".
+character,	"?".
+identifier,	"r5".
+keyword,	"lambda".
+identifier,	"p0".
+bquote.
+error,	""%1[ZPg[ZM|3".
+error,	"?".
+identifier,	"uNRm".
+comma.
+error,	"{".
+identifier,	"jdWoe".
+error,	"~".
+identifier,	"aeU".
+rsquare.
+identifier,	"q".
+character,	"R".
+numeric,	8.
+error,	":".
+error,	"~".
+identifier,	"s".
+error,	":".
+identifier,	"W85".
+error,	":".
+numeric,	1.
+error,	"?".
+numeric,	8.
+error,	"~".
+identifier,	"t".
+error,	""".
+eof.

@@ -1,0 +1,6 @@
+identifier,	"BM".
+character,	"g".
+keyword,	"lambda".
+bquote.
+keyword,	"and".
+eof.

@@ -1,0 +1,23 @@
+keyword,	"=>".
+keyword,	"and".
+quote.
+identifier,	"U".
+error,	"\".
+lparen.
+error,	"&".
+identifier,	"UQKc".
+error,	"$".
+identifier,	"V".
+error,	"&".
+error,	"/".
+error,	"*".
+identifier,	"K".
+rparen.
+identifier,	"nu".
+error,	".".
+identifier,	"OlWkWm".
+error,	"^".
+error,	"@".
+error,	"*".
+identifier,	"R".
+eof.

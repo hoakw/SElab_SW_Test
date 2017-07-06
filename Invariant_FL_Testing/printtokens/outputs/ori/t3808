@@ -1,0 +1,10 @@
+character,	"".
+character,	",".
+lparen.
+numeric,	3.
+error,	"<".
+error,	"4Zr".
+numeric,	43.
+character,	"[".
+lparen.
+eof.

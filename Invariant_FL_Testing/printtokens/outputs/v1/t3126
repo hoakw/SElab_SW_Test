@@ -1,0 +1,10 @@
+numeric,	29.
+identifier,	"u".
+rparen.
+identifier,	"x9J".
+error,	"&".
+identifier,	"R".
+error,	"\".
+error,	"@".
+identifier,	"C".
+eof.

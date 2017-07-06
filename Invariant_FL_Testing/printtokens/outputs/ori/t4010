@@ -1,0 +1,38 @@
+error,	""]<gw".
+identifier,	"L".
+error,	"{".
+character,	"0".
+bquote.
+error,	"$".
+error,	"\".
+bquote.
+identifier,	"aksTHUhAp".
+error,	"{".
+error,	"5dA".
+error,	"\".
+identifier,	"v".
+error,	"-".
+error,	"?".
+rparen.
+identifier,	"u".
+lparen.
+identifier,	"VRb".
+error,	"}".
+error,	"}".
+identifier,	"r".
+error,	"&".
+error,	":".
+error,	"9Nh".
+quote.
+identifier,	"JDd".
+error,	"$".
+identifier,	"YGuol".
+error,	"%".
+error,	"<".
+error,	"=".
+error,	"$".
+numeric,	8.
+error,	"<".
+comma.
+identifier,	"Z".
+eof.

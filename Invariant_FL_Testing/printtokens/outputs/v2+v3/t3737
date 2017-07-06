@@ -1,0 +1,12 @@
+numeric,	11.
+bquote.
+identifier,	"U".
+lparen.
+rparen.
+identifier,	"m".
+error,	"{".
+keyword,	"xor".
+character,	"|".
+numeric,	34.
+identifier,	"fc".
+eof.

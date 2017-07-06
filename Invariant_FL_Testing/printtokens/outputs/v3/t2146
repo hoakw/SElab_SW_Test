@@ -1,0 +1,32 @@
+string,	"D".
+character,	"9".
+string,	"W:".
+quote.
+numeric,	97.
+character,	"w".
+identifier,	"N".
+bquote.
+comma.
+character,	"D".
+identifier,	"RFAj".
+rsquare.
+character,	"/".
+identifier,	"Fb".
+string,	"vcS#ar^JivKF}@f_;}".
+rparen.
+lsquare.
+identifier,	"T".
+error,	"~".
+identifier,	"m".
+error,	"@".
+identifier,	"E".
+error,	"|".
+error,	"?".
+identifier,	"pFRKl".
+bquote.
+quote.
+identifier,	"f".
+error,	"{".
+identifier,	"mZ".
+error,	""`".
+eof.

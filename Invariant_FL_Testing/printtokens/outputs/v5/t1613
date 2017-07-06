@@ -1,0 +1,6 @@
+keyword,	"or".
+keyword,	"=>".
+identifier,	"JH".
+keyword,	"=>".
+keyword,	"xor".
+eof.

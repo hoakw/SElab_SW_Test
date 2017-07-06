@@ -1,0 +1,10 @@
+keyword,	"or".
+identifier,	"O3".
+error,	"$".
+character,	"c".
+identifier,	"harsu".
+comma.
+error,	"$".
+character,	"c".
+identifier,	"harXK".
+eof.

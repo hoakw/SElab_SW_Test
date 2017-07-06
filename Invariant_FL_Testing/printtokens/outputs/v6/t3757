@@ -1,0 +1,42 @@
+character,	"S".
+numeric,	58.
+bquote.
+identifier,	"MT2zeYT0JX8tw7E4HtMom299712SmB40w".
+error,	""$O1L[OACgJJ".
+error,	"?".
+numeric,	4.
+error,	"+".
+error,	"&".
+numeric,	6.
+error,	"*".
+error,	"/".
+error,	"&".
+identifier,	"U".
+error,	"^".
+bquote.
+identifier,	"D5".
+error,	"!".
+error,	"^".
+error,	"/".
+error,	"~".
+quote.
+identifier,	"lYWU".
+lparen.
+identifier,	"zV".
+error,	""".
+character,	"R".
+identifier,	"YCW54h".
+bquote.
+rsquare.
+rparen.
+error,	"%".
+identifier,	"Eh8d".
+error,	"%".
+identifier,	"D".
+rparen.
+error,	"}".
+identifier,	"r".
+error,	"=".
+identifier,	"l".
+comma.
+eof.

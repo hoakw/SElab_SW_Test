@@ -1,0 +1,3 @@
+error,	"".
+identifier,	"O".
+eof.

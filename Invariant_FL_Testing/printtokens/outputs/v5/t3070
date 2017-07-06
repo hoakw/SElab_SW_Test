@@ -1,0 +1,22 @@
+character,	"N".
+identifier,	"TL85".
+character,	"}".
+identifier,	"siJ".
+rparen.
+identifier,	"xNw".
+error,	"?".
+identifier,	"rrQa".
+lsquare.
+identifier,	"dH4".
+error,	"{".
+error,	"}".
+bquote.
+lsquare.
+comma.
+lparen.
+identifier,	"g4eKdkV".
+error,	"-".
+error,	"$".
+keyword,	"lambda".
+string,	";".
+eof.

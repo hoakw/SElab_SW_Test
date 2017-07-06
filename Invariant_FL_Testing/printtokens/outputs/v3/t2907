@@ -1,0 +1,55 @@
+identifier,	"bx".
+error,	"@".
+character,	"G".
+quote.
+lparen.
+numeric,	81687.
+identifier,	"O".
+error,	"%".
+error,	"4KBl".
+error,	"=".
+identifier,	"b".
+error,	"/".
+error,	"-".
+error,	"<".
+rparen.
+identifier,	"X".
+error,	"}".
+identifier,	"pG".
+error,	"$".
+identifier,	"Q".
+error,	"-".
+lsquare.
+identifier,	"L".
+comma.
+identifier,	"G".
+error,	"@".
+keyword,	"or".
+numeric,	83479.
+rparen.
+error,	""".
+identifier,	"UqW".
+comma.
+identifier,	"AlmXf".
+rparen.
+identifier,	"s".
+error,	"*".
+error,	"_".
+identifier,	"i".
+error,	"\".
+identifier,	"pXOJF".
+error,	"/".
+error,	"~".
+error,	"/".
+comma.
+identifier,	"rs".
+error,	"_".
+numeric,	1.
+comma.
+identifier,	"omci".
+error,	""".
+keyword,	"=>".
+keyword,	"xor".
+bquote.
+bquote.
+eof.

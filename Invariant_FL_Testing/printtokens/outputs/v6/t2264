@@ -1,0 +1,39 @@
+character,	"l".
+numeric,	9.
+character,	"$".
+string,	"7FWa4U`6@p".
+character,	"P".
+numeric,	15.
+keyword,	"or".
+numeric,	61.
+character,	"O".
+character,	";".
+lparen.
+identifier,	"v2".
+identifier,	"b5195050agU4t6ecI9".
+character,	"^".
+error,	"{".
+character,	"v".
+keyword,	"xor".
+keyword,	"or".
+lparen.
+numeric,	4.
+error,	"+".
+error,	"*".
+numeric,	4.
+lsquare.
+lsquare.
+lparen.
+identifier,	"L".
+bquote.
+identifier,	"q".
+error,	".".
+identifier,	"ie9r".
+error,	"~".
+identifier,	"Q".
+error,	"^".
+character,	"5".
+identifier,	"yD27056".
+character,	"f".
+character,	"9".
+eof.

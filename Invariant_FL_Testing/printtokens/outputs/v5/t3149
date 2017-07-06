@@ -1,0 +1,23 @@
+identifier,	"mx7".
+keyword,	"xor".
+string,	"Ys_M'cHj'hive".
+identifier,	"yJ".
+error,	"|".
+identifier,	"u".
+error,	"|".
+identifier,	"L".
+lparen.
+identifier,	"B".
+rparen.
+rparen.
+identifier,	"gw".
+error,	"{".
+numeric,	65.
+error,	"&".
+numeric,	9.
+quote.
+identifier,	"C".
+error,	"_".
+identifier,	"d".
+error,	"!".
+eof.

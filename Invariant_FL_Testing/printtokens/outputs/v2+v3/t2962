@@ -1,0 +1,31 @@
+keyword,	"xor".
+string,	"={x{8WX".
+keyword,	"lambda".
+keyword,	"=>".
+keyword,	"xor".
+error,	"=".
+error,	"-".
+error,	"/".
+error,	"~".
+numeric,	2.
+error,	"&".
+identifier,	"yS".
+error,	"\".
+lparen.
+numeric,	46.
+comma.
+quote.
+identifier,	"YoM".
+error,	"{".
+identifier,	"Fw".
+character,	"\".
+character,	"]".
+string,	"/".
+numeric,	5.
+character,	".".
+string,	"/lI71/W)Vir{/qem[J0 d]b.".
+keyword,	"lambda".
+numeric,	56.
+numeric,	25.
+identifier,	"b".
+eof.

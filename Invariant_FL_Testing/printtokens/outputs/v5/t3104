@@ -1,0 +1,15 @@
+keyword,	"or".
+numeric,	19.
+keyword,	"=>".
+string,	"B".
+keyword,	"lambda".
+numeric,	79.
+identifier,	"e3".
+character,	"d".
+character,	"K".
+rsquare.
+error,	"^".
+error,	"?".
+error,	"?".
+error,	".".
+eof.
